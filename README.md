@@ -1,8 +1,9 @@
 # vue-neditor-wrap
 
-##说明
+## 说明
 此版本fork自[vue-neditor-wrap](https://github.com/caiya/vue-neditor-wrap)
 并维护了npm版本，方便大家安装使用
+如需维护，欢迎发送邮件至 gaojunf999@126.com
 
 ## Installation
 ```bash
