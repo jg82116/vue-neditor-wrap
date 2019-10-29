@@ -1,5 +1,5 @@
 {
-  "name": "vue-neditor-wrap",
+  "name": "vue-neditor-wrap-gj",
   "version": "1.0.5",
   "description": "Vue + NEditor + v-model双向绑定",
   "main": "index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/caiya/vue-neditor-wrap.git"
+    "url": "git+https://github.com/jg82116/vue-neditor-wrap.git"
   },
   "keywords": [
     "ueditor",
